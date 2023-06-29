@@ -7,3 +7,4 @@ Pattern recognition course homework.
 ## Studying the Role of Smoothing Parameter in Kernel Density Estimation
 ## K-NN (I): Regression Analysis
 ## K-NN (II): Image Segmentation
+## PCA or Slope Detector
