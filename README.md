@@ -8,3 +8,6 @@ Pattern recognition course homework.
 ## K-NN (I): Regression Analysis
 ## K-NN (II): Image Segmentation
 ## PCA or Slope Detector
+## K-Means as a Powerful Image Processing Tool
+## Clustering Football Players
+## Investigation Twitter Reaction To Breaking News
