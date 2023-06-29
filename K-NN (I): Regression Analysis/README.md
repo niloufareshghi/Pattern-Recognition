@@ -1,5 +1,5 @@
 K-Nearest Neighbors algorithm is probably the simplest widely used model in machine learning. In
-spite of its simplicity, K-NN has proven to be incredibly powerful in various machine learning
+spite of its simplicity, K-NN has proven to be incredibly powerful in various machine-learning
 applications. Although it’s far more popular in classification problems, K-NN can also be used in any
 regression task. The aim of this problem is to investigate how K-NN can be equally effective when
 the target variable is continuous in nature.
@@ -14,6 +14,25 @@ a. Given the following brain weights of some unknown animals, predict their body
 ![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/c9e25f77-62c2-456d-8ba6-ac326fefa9b4)
 
 b. Plot the regression line considering 1-NN, 3-NN and 5-NN models.
+
+1-NN:
+
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/8d94ad11-26d9-4143-9ed4-34779873831c)
+
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/7002a6ba-422a-4945-bcde-f7c7f6865974)
+
+3-NN:
+
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/06dbc0a5-3b92-4d29-ab62-a441dcf7b4da)
+
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/1168f875-eb3f-4834-9164-b4e2e8d4fa4e)
+
+5-NN:
+
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/064b7cc8-e56d-49c8-b63b-693088363d75)
+
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/8e2d3e87-ce6c-465c-9bc4-f479457137de)
+
 
 Now let’s consider a more complicated problem, i.e. multivariate regression. You are given a dataset, “wine_quality.csv”, containing 1600 red Vinho Verde wine samples. The goal is to model wine quality based
 on 11 physicochemical measurements.
