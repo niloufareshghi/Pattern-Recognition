@@ -8,7 +8,7 @@ triple channels.
 
 b. Now, you should detect pixels of the watch. To aim this, with a threshold, convert the grayscale image to a binary image(0 or 255).
 
-c. You map the watch`s pixels to R2 space in this step. You can extract horizontal and vertical indexes of pixels that are in the watch`s area. Now you have a dataset that has two features
+c. You map the watch's pixels to R2 space in this step. You can extract horizontal and vertical indexes of pixels that are in the watch`s area. Now you have a dataset that has two features
 (indexes). plot the obtained dataset.
 
 d. Implement the PCA and perform it on the dataset and obtain eigenvectors and eigenvalues; plot the obtained eigenvectors and points in one graph. Discuss the eigenvalues and
