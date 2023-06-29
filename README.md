@@ -6,3 +6,4 @@ Pattern recognition course homework.
 ## Face Detection Problem: How Does Bayesian Decision Theory Handle It
 ## Studying the Role of Smoothing Parameter in Kernel Density Estimation
 ## K-NN (I): Regression Analysis
+## K-NN (II): Image Segmentation
