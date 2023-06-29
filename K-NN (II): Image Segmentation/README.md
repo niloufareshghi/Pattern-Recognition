@@ -9,6 +9,11 @@ K-NN model.
 a. Use 1-NN, 5-NN and 9-NN models to apply image segmentation on the image of the frame b. Display and compare the obtained results.
 ![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/07b7075c-144a-4819-873a-e2191ac95d69)
 
+1-NN:
+
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/47f01795-111b-4db2-b06a-d460448c92d0)
+
+
 5-NN:
 
 ![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/29505b68-3520-46a4-8907-0176728242e3)
