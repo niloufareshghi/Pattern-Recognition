@@ -21,6 +21,12 @@ Gaussian. Find the mean and variance of both class-conditional densities.
 c. Apply your classifier on the test images and display the results. Also, report the test error
 using the given masks.
 
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/f27275de-7215-442b-8d06-bd96d446e001)
+
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/361779a7-83ee-4381-a0f4-dcded58cd32d)
+
+*error = 0.090503162380861*
+
 d. Compute a confusion matrix for your classifier.
 
-e. Calculate the Bayes error.
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/ab04950c-0849-4cf9-b463-af373221ab3d)
