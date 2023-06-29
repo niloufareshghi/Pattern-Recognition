@@ -14,6 +14,5 @@ b. Generate n i.i.d samples from the given PDFs, assuming N = {10, 100, 1000}.
 c. For a univariate Gaussian kernel, it is often recommended to select h* = 1.06sˆN-1 5,
 where h* is the optimal choice of bandwidth, n is the number of samples, and sˆ is the
 estimate of the standard deviation of the samples. Calculate the sample standard deviation, sˆ. For each, estimate the optimal value for bandwidth, h*(n).
-d. Use kernel density estimation with a Gaussian kernel for each to estimate the PDFs,
-considering three different bandwidth values {h*(n)/3, h*(n), 3* h*(n)}.
+
 e. Summarise your results by plotting the two PDF estimates. For each of the given densities, you need to have 9 plots overall (18 in total). Overlay each plot with the ground truth densities. 
