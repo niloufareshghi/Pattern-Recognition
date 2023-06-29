@@ -3,6 +3,7 @@ problem.
 
 a. Load RGB base.jpg image and convert it to a grayscale single channel image. Different approaches exist that address the mentioned conversation. One of them is averaging the
 triple channels.
+
 ![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/6c43a095-71a1-4b1a-8fcf-0a06642edf01)
 
 
