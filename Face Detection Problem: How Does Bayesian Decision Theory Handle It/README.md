@@ -24,5 +24,3 @@ using the given masks.
 d. Compute a confusion matrix for your classifier.
 
 e. Calculate the Bayes error.
-
-f. Draw a ROC curve to visualize the performance of your classifier.
