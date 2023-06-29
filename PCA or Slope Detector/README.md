@@ -22,5 +22,3 @@ e. Using the eigenvectors, calculate the slope of the watch based on the horizon
 
 
 ![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/1c1fcfef-fcdb-467d-94b9-174748431704)
-
-f. Is this strategy robust against of detect slopes in the same direction? why? try to suggest a solution and implement it.
