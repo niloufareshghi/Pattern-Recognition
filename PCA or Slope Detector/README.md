@@ -11,9 +11,16 @@ b. Now, you should detect pixels of the watch. To aim this, with a threshold, co
 c. You map the watch's pixels to R2 space in this step. You can extract horizontal and vertical indexes of pixels that are in the watch`s area. Now you have a dataset that has two features
 (indexes). plot the obtained dataset.
 
-d. Implement the PCA and perform it on the dataset and obtain eigenvectors and eigenvalues; plot the obtained eigenvectors and points in one graph. Discuss the eigenvalues and
-corresponding eigenvectors.
+d. Implement the PCA and perform it on the dataset and obtain eigenvectors and eigenvalues; plot the obtained eigenvectors and points in one graph. Discuss the eigenvalues and corresponding eigenvectors.
+
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/86b40914-7eec-4a53-b160-b43095966881)
+
 
 e. Using the eigenvectors, calculate the slope of the watch based on the horizontal axis. repeat these steps for all test images.
+
+![test1](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/c2a99b2e-06cf-4ff3-8f70-e0ee76aa18fc)
+
+
+![image](https://github.com/niloufareshghi/Pattern-Recognition/assets/47944007/1c1fcfef-fcdb-467d-94b9-174748431704)
 
 f. Is this strategy robust against of detect slopes in the same direction? why? try to suggest a solution and implement it.
