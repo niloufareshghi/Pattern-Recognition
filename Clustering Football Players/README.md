@@ -12,18 +12,16 @@ b. Assuming k = 5, perform k-means clustering. Visualize clusters with players�
 c. Is Kylian Mbappé's playing style more comparable to that of Lionel Messi or Cristiano Ronaldo?
 
 m = int(data[data['Known As'] == "K. Mbappé"].index.values)
-l = int(data[data['Known As'] == "L. Messi"].index.values)
-r = int(data[data['Known As'] == "Cristiano Ronaldo"].index.values)
-t = int(data[data['Known As'] == "M. Taremi"].index.values)
-     
 
-ml = dist(df.iloc[m].values, df.iloc[l].values)
-print(ml)
-mr = dist(df.iloc[m].values, df.iloc[r].values)
-print(mr)
+l = int(data[data['Known As'] == "L. Messi"].index.values)
+
+r = int(data[data['Known As'] == "Cristiano Ronaldo"].index.values)
      
-299690659.22214663
-325200999.5372162
+dist(df.iloc[m].values, df.iloc[l].values) : 299690659.22214663
+
+dist(df.iloc[m].values, df.iloc[r].values) : 325200999.5372162
+
+     
 Mbappe is more similar to Leo Messi
 
 Now, we wish to see how accurate this approach is in categorizing football players based on their positions. As can be seen in the dataset, each player is given a ‘Best Position’ attribute, denoting his most preferred position on the pitch.
